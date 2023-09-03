@@ -14,8 +14,8 @@ I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitatin
 
 <div align="center">
   <a href="https://github.com/Mathewsmag">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathewsmag&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathewsmag&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathewsmag&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathewsmag&layout=compact&langs_count=7"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
