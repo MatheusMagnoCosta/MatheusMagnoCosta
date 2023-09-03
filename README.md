@@ -1,4 +1,17 @@
-## Olá eu sou o Matheus Magno, desenvolvedor front-end!
+### Hey Matheus here 👋
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mathewsmag/Mathewsmag/main/banner.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
+
+I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+
+💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+
+---
+
 <div align="center">
   <a href="https://github.com/Mathewsmag">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathewsmag&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
