@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mathewsmag/Mathewsmag/main/banner.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/MatheusMagnoCosta/MatheusMagnoCosta/main/banner.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
@@ -13,9 +13,9 @@ I am a Full-stack Web Developer who is exploring Cloud :cloud: while facilitatin
 ---
 
 <div align="center">
-  <a href="https://github.com/Mathewsmag">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mathewsmag&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathewsmag&layout=compact&langs_count=7"/>
+  <a href="https://github.com/MatheusMagnoCosta">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMagnoCosta&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMagnoCosta&layout=compact&langs_count=7"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
